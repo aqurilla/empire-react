@@ -1,3 +1,6 @@
+Technologies used:
+Javascript, HTML/CSS, React, React-Router, Firebase
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
