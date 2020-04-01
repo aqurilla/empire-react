@@ -4,8 +4,11 @@
 
 body {
   font-family: 'Open Sans Condensed';
+  font-size: 25px;
   padding: 20px 60px;
-  /* background-color: #7bb0ec; */
+
+  background: url(assets/bg/bg_gradient.png) no-repeat;
+  background-size: cover;
 }
 
 a {
